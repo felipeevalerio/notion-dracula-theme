@@ -64,14 +64,10 @@
 ## About The Project
 <h3 align="center">Web</h3>
 <p align="center">
-    <img src="/public/assets/foodfy.gif" alt="FoodFy"></img>
+    <!-- <img src="/public/assets/foodfy.gif" alt="FoodFy"></img> -->
 </p>
 <br/>
 <br/>
-<h3 align="center">Mobile</h3>
-<p align="center">
-    <img src="/public/assets/mobile.gif" alt="FoodFy-Mobile"></img>
-</p>
 
 
 FoodFy it's a webapp who i developed during the bootcamp Launchbase offered by Rocketseat.
@@ -82,7 +78,7 @@ FoodFy it's a webapp who i developed during the bootcamp Launchbase offered by R
 * 📨 Email system 
 * 📱 A responsive website for you can use on your cellphone
 
-### 🔧 Built With
+### :wrench: Built With
 
 Here we can see all the technologies that was used in this project.
 
