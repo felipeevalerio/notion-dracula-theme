@@ -28,7 +28,7 @@
 
 * [About the Project]("#")
 * [Features](#rocket-features)
-* [Built With]("#wrench-built-with")
+* [Built With]("#wrench_built-with")
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
 * [FAQ](#postbox-faq)
