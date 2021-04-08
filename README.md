@@ -8,31 +8,42 @@
     <img src="/assets/dracula.svg" alt="Dracula Icon" width="150" height="150">
   </a>
 
-  <h3 align="center">FoodFy</h3>
+  <h3 align="center">Notion Dracula Theme</h3>
 
   <p align="center">
-    An awesome WEB APP for Management of recipes and chefs - RocketSeat LaunchBase
+    An electron application which executes a custom notion desktop with dracula theme
     <br />
-    <a href="https://github.com/felipe-spindola/FoodFy"><strong>Explore the project »</strong></a>
+    <a href="https://github.com/felipeevalerio/notion-dracula-theme"><strong>Explore the project »</strong></a>
     <br />
     <br />
     ·
-    <a href="https://github.com/felipe-spindola/FoodFy/issues">Report Bug</a>
+    <a href="https://github.com/felipeevalerio/notion-dracula-theme/issues">Report Bug</a>
     ·
-    <a href="https://github.com/felipe-spindola/FoodFy/issues">Request Feature</a>
+    <a href="https://github.com/felipeevalerio/notion-dracula-theme/issues">Request Feature</a>
   </p>
 </p>
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+# :pushpin: Table of Contents
+
+* [About the Project]("#")
+* [Features](#rocket-features)
+* [Built With]("#wrench-built-with")
+* [Installation](#construction_worker-installation)
+* [Getting Started](#runner-getting-started)
+* [FAQ](#postbox-faq)
+* [Found a bug? Missing a specific feature?](#bug-issues)
+* [Contributing](#tada-contributing)
+* [License](#closed_book-license)
+
+
+
+<!-- <details open="open">
   <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#features">Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+    <li><a href="#features">Features</a></li>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -45,7 +56,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
-</details>
+</details> -->
 
 
 
@@ -127,7 +138,7 @@ First of all,to run the application you will need to install [Node](https://getb
 <!-- CONTRIBUTING -->
 ## 👪 Contributing
 
-If you find any problem in [FoodFy](https://github.com/felipe-spindola/FoodFy),i will be so grateful if you create a new issue on [FoodFy-Issues](https://github.com/felipe-spindola/FoodFy/issues). Pull requests are also welcome!!
+If you find any problem in [FoodFy](https://github.com/felipeevalerio/notion-dracula-theme),i will be so grateful if you create a new issue on [FoodFy-Issues](https://github.com/felipeevalerio/notion-dracula-theme/issues). Pull requests are also welcome!!
 
 **How can i create a pull request?** 🤷🏻‍♂️
 
@@ -141,17 +152,18 @@ If you find any problem in [FoodFy](https://github.com/felipe-spindola/FoodFy),i
 <!-- LICENSE -->
 ## 📋 License
 
-Released in 2021. This project is under the <a href="https://github.com/LauraBeatris/foodfy/blob/master/LICENSE">MIT license</a>
+Released in 2021. This project is under the <a href="https://github.com/felipeevalerio/notion-dracula-theme/blob/main/LICENSE">MIT license</a>
 <br/>
 <p align="center">
     Made by Felipe Valério 😁
+    Inspired by Mayk Brito
 </p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[issues-shield]: https://img.shields.io/github/issues/felipeevalerio/foodfy.svg?style=for-the-badge
-[issues-url]: https://github.com/felipeevalerio/FoodFy/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/felipeevalerio/notion-dracula-theme
+[issues-url]: https://github.com/felipeevalerio/notion-dracula-theme/issues
+[license-shield]: https://img.shields.io/github/license/felipeevalerio/notion-dracula-theme
+[license-url]: https://github.com/felipeevalerio/notion-dracula-theme/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/felipeevalerio
