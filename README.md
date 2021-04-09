@@ -26,11 +26,11 @@
 <!-- TABLE OF CONTENTS -->
 # :pushpin: Table of Contents
 
-* [About The Project]("#about-the-project")
+* [About The Project](#about-the-project) 
 * [Features](#rocket-features)
-* [Built With]("#wrench-built-with")
+* [Built With](#wrench-built-with) 
 * [Getting Started](#runner-getting-started)
-* [Prerequisites]("#construction_worker-prerequisites")
+* [Prerequisites](#construction_worker-prerequisites)
 * [Installation](#gear-installation)
 * [FAQ](#postbox-faq)
 * [Contributing](#family-contributing)
