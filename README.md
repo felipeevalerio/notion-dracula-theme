@@ -26,37 +26,14 @@
 <!-- TABLE OF CONTENTS -->
 # :pushpin: Table of Contents
 
-* [About the Project]("#")
 * [Features](#rocket-features)
-* [Built With]("#wrench_built-with")
+* [Built With]("#wrench-built-with")
 * [Installation](#construction_worker-installation)
 * [Getting Started](#runner-getting-started)
 * [FAQ](#postbox-faq)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [Contributing](#tada-contributing)
 * [License](#closed_book-license)
-
-
-
-<!-- <details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    <li><a href="#features">Features</a></li>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-  </ol>
-</details> -->
 
 
 
@@ -70,71 +47,48 @@
 <br/>
 
 
-FoodFy it's a webapp who i developed during the bootcamp Launchbase offered by Rocketseat.
+<p>Notion is a desktop tool which you can create notes,planners and habit trackers.</p>
+<p>I'm a big lover of the dracula theme so I had to customize the app a little bit</p>
 
 ### Features
-* 🙋 Create an account to manage recipes,chefs and users
-* 👩🏽‍🍳 Explore awesome recipes and chefs
-* 📨 Email system 
-* 📱 A responsive website for you can use on your cellphone
+
+* 🙋 Create an account in Notion.
+* 🧛 Be in love with this beautiful dracula theme.
 
 ### :wrench: Built With
 
 Here we can see all the technologies that was used in this project.
 
-* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Node.Js](https://getbootstrap.com)
-* [Express](https://expressjs.com/pt-br/)
-* [Nunjucks](https://jquery.com)
-* [Postgres](https://www.postgresql.org)
-* [Multer](https://www.npmjs.com/package/multer)
+* [Electron](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 <!-- GETTING STARTED -->
-## 🏃‍♂️ Getting Started 
+## :runner: Getting Started 
 
-### 👷 Prerequisites 
+### :construction-worker: Prerequisites 
 
 First of all,to run the application you will need to install [Node](https://getbootstrap.com) and the database [Postgres](https://www.postgresql.org)
 
-### ⚙️ Installation 
+### :wheel: Installation 
 
 1. Open the terminal 
 2. Clone the repo
    ```sh
-   git clone https://github.com/felipeeevalerio/FoodFy.git && cd FoodFy
+   git clone https://github.com/felipeeevalerio/notion-dracula-theme.git && cd notion-dracula-theme
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
-4. Create a database on PostgresSQL
+4. Build the app and enjoy your application!
    ```sh
-   CREATE DATABASE foodfy
+   npx run build 
    ```
-5. Create the tables on PostgresSQL using the file `database.sql`
 
-6. Open the file `db.js` inside the directory `src/config` and update your user and password.
-```JS
-    {
-        user:"your-username",
-        password:"your-password"
-    }
-```
-7. Use the file `seed.js` to populate your website.
-```sh
-    node seed.js
-```
-
-8. Run and enjoy your application!
-```sh
-    npm start
-```
 
 <!-- CONTRIBUTING -->
-## 👪 Contributing
+## :family: Contributing
 
-If you find any problem in [FoodFy](https://github.com/felipeevalerio/notion-dracula-theme),i will be so grateful if you create a new issue on [FoodFy-Issues](https://github.com/felipeevalerio/notion-dracula-theme/issues). Pull requests are also welcome!!
+If you find any problem in [Notion-Dracula-Theme](https://github.com/felipeevalerio/notion-dracula-theme),i will be so grateful if you create a new issue on [Notion-Dracula-Theme](https://github.com/felipeevalerio/notion-dracula-theme/issues). Pull requests are also welcome!!
 
 **How can i create a pull request?** 🤷🏻‍♂️
 
@@ -146,12 +100,13 @@ If you find any problem in [FoodFy](https://github.com/felipeevalerio/notion-dra
 
 
 <!-- LICENSE -->
-## 📋 License
+## :clipboard: License
 
 Released in 2021. This project is under the <a href="https://github.com/felipeevalerio/notion-dracula-theme/blob/main/LICENSE">MIT license</a>
 <br/>
 <p align="center">
     Made by Felipe Valério 😁
+    <br/>
     Inspired by Mayk Brito
 </p>
 

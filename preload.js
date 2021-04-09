@@ -8,9 +8,6 @@ const customStyle = `
     --dark-4: rgba(var(--dark), .4);
     --dark-4: rgba(var(--dark), .2);
 
-    /* #FD951F: 253, 149, 31  : launchbase */
-    /* #67e480: 103, 228, 128 : omni */
-      
     --primary: 189,147,249; 
     --primary-1: rgb(var(--primary));
     --primary-2: rgba(var(--primary), 0.8);
