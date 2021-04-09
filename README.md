@@ -26,9 +26,11 @@
 <!-- TABLE OF CONTENTS -->
 # :pushpin: Table of Contents
 
+* [About The Project]("#about-the-project")
 * [Features](#rocket-features)
 * [Built With]("#wrench-built-with")
-* [Installation](#construction_worker-installation)
+* [Prerequisites]("construction_worker-prerequisites")
+* [Installation](#gear-installation)
 * [Getting Started](#runner-getting-started)
 * [FAQ](#postbox-faq)
 * [Contributing](#tada-contributing)
@@ -38,9 +40,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<h3 align="center">Web</h3>
 <p align="center">
-    <!-- <img src="/public/assets/foodfy.gif" alt="FoodFy"></img> -->
+    <img src="/assets/preview.png" alt="Notion Dracula Theme"></img>
 </p>
 <br/>
 <br/>
@@ -49,7 +50,7 @@
 <p>Notion is a desktop tool which you can create notes,planners and habit trackers.</p>
 <p>I'm a big lover of the dracula theme so I had to customize the app a little bit</p>
 
-### Features
+### :rocket: Features
 
 * 🙋 Create an account in Notion.
 * 🧛 Be in love with this beautiful dracula theme.
@@ -66,7 +67,7 @@ Here we can see all the technologies that was used in this project.
 ### :construction_worker: Prerequisites 
 
 First of all,to run the application you will need to install [Node](https://getbootstrap.com) for we can use the npm packages .
-### :wheel: Installation 
+### :gear: Installation 
 
 1. Open the terminal 
 2. Clone the repo
