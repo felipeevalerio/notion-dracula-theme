@@ -29,24 +29,19 @@
 * [About The Project]("#about-the-project")
 * [Features](#rocket-features)
 * [Built With]("#wrench-built-with")
+* [Getting Started](#runner-getting-started)
 * [Prerequisites]("construction_worker-prerequisites")
 * [Installation](#gear-installation)
-* [Getting Started](#runner-getting-started)
 * [FAQ](#postbox-faq)
-* [Contributing](#tada-contributing)
-* [License](#closed_book-license)
+* [Contributing](#family-contributing)
+* [License](#clipboard-license)
 
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
     <img src="/assets/preview.png" alt="Notion Dracula Theme"></img>
 </p>
 <br/>
 <br/>
-
-
 <p>Notion is a desktop tool which you can create notes,planners and habit trackers.</p>
 <p>I'm a big lover of the dracula theme so I had to customize the app a little bit</p>
 
@@ -85,9 +80,9 @@ First of all,to run the application you will need to install [Node](https://getb
 
 ## :postbox: FAQ
 
-**Question:**
+**Question:** I already build the app but I can't find where is the binary.
 
-**Answer:** 
+**Answer:** The app It will be in the **packages** directory.
 
 
 <!-- CONTRIBUTING -->
