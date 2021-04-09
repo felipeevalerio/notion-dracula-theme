@@ -64,10 +64,9 @@ Here we can see all the technologies that was used in this project.
 <!-- GETTING STARTED -->
 ## :runner: Getting Started 
 
-### :construction-worker: Prerequisites 
+### :construction_worker: Prerequisites 
 
-First of all,to run the application you will need to install [Node](https://getbootstrap.com) and the database [Postgres](https://www.postgresql.org)
-
+First of all,to run the application you will need to install [Node](https://getbootstrap.com) for we can use the npm packages .
 ### :wheel: Installation 
 
 1. Open the terminal 
