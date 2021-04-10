@@ -89,7 +89,7 @@ First of all,to run the application you will need to install [Node](https://getb
 <!-- CONTRIBUTING -->
 ## :family: Contributing
 
-If you find any problem in [Notion-Dracula-Theme](https://github.com/felipeevalerio/notion-dracula-theme),i will be so grateful if you create a new issue on [Notion-Dracula-Theme](https://github.com/felipeevalerio/notion-dracula-theme/issues). Pull requests are also welcome!!
+If you find any problem in [Notion-Dracula-Theme](https://github.com/felipeevalerio/notion-dracula-theme),i will be so grateful if you create a new issue on [Notion-Dracula-Theme-Issues](https://github.com/felipeevalerio/notion-dracula-theme/issues). Pull requests are also welcome!!
 
 **How can i create a pull request?** 🤷🏻‍♂️
 
