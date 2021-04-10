@@ -73,10 +73,11 @@ First of all,to run the application you will need to install [Node](https://getb
    ```sh
    npm install
    ```
-4. Build the app and enjoy your application!
+4. Build the app 
    ```sh
    npx run build 
-   ```
+   ``` 
+5. Put the notion in dark mode and enjoy your application!
 
 ## :postbox: FAQ
 
