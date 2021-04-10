@@ -4,7 +4,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/felipe-spindola/FoodFy">
+  <a href="https://github.com/felipe-spindola/notion-dracula-theme">
     <img src="/assets/dracula.svg" alt="Dracula Icon" width="150" height="150">
   </a>
 
